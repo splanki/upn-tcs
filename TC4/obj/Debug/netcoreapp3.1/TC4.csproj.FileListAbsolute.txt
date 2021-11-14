@@ -1,0 +1,13 @@
+D:\Ciclo 4\Estructura de datos\Trabajos de Campo\TC4\TC4\TC4\bin\Debug\netcoreapp3.1\TC4.exe
+D:\Ciclo 4\Estructura de datos\Trabajos de Campo\TC4\TC4\TC4\bin\Debug\netcoreapp3.1\TC4.deps.json
+D:\Ciclo 4\Estructura de datos\Trabajos de Campo\TC4\TC4\TC4\bin\Debug\netcoreapp3.1\TC4.runtimeconfig.json
+D:\Ciclo 4\Estructura de datos\Trabajos de Campo\TC4\TC4\TC4\bin\Debug\netcoreapp3.1\TC4.runtimeconfig.dev.json
+D:\Ciclo 4\Estructura de datos\Trabajos de Campo\TC4\TC4\TC4\bin\Debug\netcoreapp3.1\TC4.dll
+D:\Ciclo 4\Estructura de datos\Trabajos de Campo\TC4\TC4\TC4\bin\Debug\netcoreapp3.1\TC4.pdb
+D:\Ciclo 4\Estructura de datos\Trabajos de Campo\TC4\TC4\TC4\obj\Debug\netcoreapp3.1\TC4.csproj.AssemblyReference.cache
+D:\Ciclo 4\Estructura de datos\Trabajos de Campo\TC4\TC4\TC4\obj\Debug\netcoreapp3.1\TC4.AssemblyInfoInputs.cache
+D:\Ciclo 4\Estructura de datos\Trabajos de Campo\TC4\TC4\TC4\obj\Debug\netcoreapp3.1\TC4.AssemblyInfo.cs
+D:\Ciclo 4\Estructura de datos\Trabajos de Campo\TC4\TC4\TC4\obj\Debug\netcoreapp3.1\TC4.csproj.CoreCompileInputs.cache
+D:\Ciclo 4\Estructura de datos\Trabajos de Campo\TC4\TC4\TC4\obj\Debug\netcoreapp3.1\TC4.dll
+D:\Ciclo 4\Estructura de datos\Trabajos de Campo\TC4\TC4\TC4\obj\Debug\netcoreapp3.1\TC4.pdb
+D:\Ciclo 4\Estructura de datos\Trabajos de Campo\TC4\TC4\TC4\obj\Debug\netcoreapp3.1\TC4.genruntimeconfig.cache
